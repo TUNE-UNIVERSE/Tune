@@ -5736,6 +5736,22 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 /*-----------------------------
   services_section
 -----------------------------*/
+.services_section{
+  margin-bottom: -4rem;
+}
+.pricing_list_app{
+  margin-bottom: 6rem;
+}
+.course{
+  justify-content: center;
+}
+.title_sections{
+  margin-bottom: -11%;
+}
+.mb-lg-0{
+  width: 100%;
+  margin-top: 11%;
+}
 .services_section .items_serv .item-img {
   position: relative;
   background-image: url("../img/shape-before.svg");
@@ -15899,6 +15915,9 @@ software_web
 .download_section_app .button_apoo .media-body {
   display: flex;
   align-items: center;
+}
+#media-ex{
+  color: #ffff;
 }
 .download_section_app .mockupapp_footer {
   position: absolute;
